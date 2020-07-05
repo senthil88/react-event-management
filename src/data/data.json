@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Girls Event1",
+    "available_seats": 2,
+    "date": "23-may-2020",
+    "pic": "https://randomuser.me/api/portraits/women/78.jpg"
+  },
+  {    
+      "id": 2,
+      "name": "Boys Event2",
+      "available_seats": 23,
+      "date": "23-may-2020",
+      "pic": "https://randomuser.me/api/portraits/men/90.jpg"
+  },
+  {
+      "id": 3,
+      "name": "BoysEvent3",
+      "available_seats": 0,
+      "date": "23-may-2020",
+      "pic": "https://randomuser.me/api/portraits/men/91.jpg"
+  },    
+  {
+      "id": 4,
+      "name": "BoysEvent4",
+      "available_seats": 23,
+      "date": "23-may-2020",
+      "pic": "https://randomuser.me/api/portraits/men/92.jpg"
+  },    
+  {
+      "id": 5,
+      "name": "Girls Event5",
+      "available_seats": 23,
+      "date": "23-may-2020",
+      "pic": "https://randomuser.me/api/portraits/women/79.jpg"
+  },    
+  {
+      "id": 6,
+      "name": "Girls Event6",
+      "available_seats": 0,
+      "date": "23-may-2020",
+      "pic": "https://randomuser.me/api/portraits/women/80.jpg"
+  },    
+  {
+      "id": 7,
+      "name": "BoysEvent7",
+      "available_seats": 23,
+      "date": "23-may-2020",
+      "pic": "https://randomuser.me/api/portraits/men/98.jpg"
+  },    
+  {
+      "id": 8,
+      "name": "BoysEvent8",
+      "available_seats": 23,
+      "date": "23-may-2020",
+      "pic": "https://randomuser.me/api/portraits/men/99.jpg"
+  }
+]

@@ -1,0 +1,15 @@
+.Form {
+  margin: 20px auto;
+  width: 300px;
+}
+
+.Form-box {
+  font-size: 1.4rem;
+  border: none;
+  border-bottom: 1px solid lime;
+  background: inherit;
+  outline: none;
+  padding: 5px;
+  color: black;
+}
+

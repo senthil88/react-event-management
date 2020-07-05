@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  margin: 2rem 5rem;
 }
 
 .App-logo {
@@ -36,3 +36,84 @@
     transform: rotate(360deg);
   }
 }
+
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 92%;
+  font-family: 'Quicksand', sans-serif;
+  color: #000000;
+  background: #f7f7f7;  /* fallback for old browsers */
+  
+}
+
+p {
+  font-size: 75%;
+}
+
+h2, h3, h4, h5 {
+  margin: 0 0 3px;
+}
+
+
+
+  button {
+    max-width: 150px;
+    margin: 20px 0;
+    padding: 12px 20px;
+    border-style: none;
+    border-radius: 5px;
+    background-color: #08c;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+    -webkit-appearance: none;
+  }  
+  .button-min {
+    max-width: 150px;
+    margin: 2px 0;
+    padding: 3px 5px;
+    border-style: none;
+    border-radius: 5px;
+    background-color:rgb(90, 129, 255);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+    -webkit-appearance: none;
+  }
+  
+  button:disabled {
+    opacity: .5;
+    cursor: not-allowed !important;
+  }
+  
+  button + button {
+    margin-left: .5rem;
+  }
+  
+  button.outline {
+    background-color: #eee;
+    border: 1px solid #aaa;
+    color: #555;
+  }
+  .text-center {
+    text-align: center;
+  }
+  .p10 {
+    padding: 10px;
+  }
+  .m10{
+    margin: 10px;
+  }
